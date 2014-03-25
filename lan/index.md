@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![CS:GO](../resources/csgo.png)
+![CS:GO](../resources/csgo.png "CS:GO")
 
 ![BF3](../resources/bf3.png)
 
