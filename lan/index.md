@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![CS:GO](../resources/csgo.png "CS:GO")]("http://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive")
+[![CS:GO](../resources/csgo.png "CS:GO")](http://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive)
 
 ![BF3](../resources/bf3.png "Battlefield 3")
 
