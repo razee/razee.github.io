@@ -6,6 +6,8 @@ layout: default
 
 [![BF3](../resources/bf3.png "Battlefield 3")](http://en.wikipedia.org/wiki/Battlefield_3)
 
+[![Demigod](../resources/demigod.jpg "Demigod")](http://en.wikipedia.org/wiki/Demigod_(video_game))
+
 [![Medal of Honor](../resources/moh.png "Medal of honor")](http://en.wikipedia.org/wiki/Medal_of_Honor_(2010_video_game))
 
 [![Supreme Commander 1](../resources/sc.png "Supreme Commander")](http://en.wikipedia.org/wiki/Supreme_Commander_(video_game))
