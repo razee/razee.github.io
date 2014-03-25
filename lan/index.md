@@ -10,9 +10,9 @@ layout: default
 
 [![Supreme Commander 1](../resources/sc.png "Supreme Commander")](http://en.wikipedia.org/wiki/Supreme_Commander_(video_game))
 
-[![FlatOut 2](../resources/Flatout 2.png)](http://en.wikipedia.org/wiki/Flatout_2)
+[![FlatOut 2](../resources/f2.png)](http://en.wikipedia.org/wiki/Flatout_2)
 
-[![Serious Sam 3](../resources/Serious sam 3.png)](http://en.wikipedia.org/wiki/Serious_sam_3)
+[![Serious Sam 3](../resources/ss3.png)](http://en.wikipedia.org/wiki/Serious_sam_3)
 
 
 
