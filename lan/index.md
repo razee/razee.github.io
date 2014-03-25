@@ -8,8 +8,6 @@ layout: default
 
 [![Demigod](../resources/demigod.jpg "Demigod")](http://en.wikipedia.org/wiki/Demigod_(video_game))
 
-[![Medal of Honor](../resources/moh.png "Medal of honor")](http://en.wikipedia.org/wiki/Medal_of_Honor_(2010_video_game))
-
 [![Supreme Commander 1](../resources/sc.png "Supreme Commander")](http://en.wikipedia.org/wiki/Supreme_Commander_(video_game))
 
 [![FlatOut 2](../resources/f2.png)](http://en.wikipedia.org/wiki/Flatout_2)
