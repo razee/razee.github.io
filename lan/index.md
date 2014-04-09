@@ -12,7 +12,7 @@ layout: default
 
 [![FlatOut 2](../resources/f2.png)](http://en.wikipedia.org/wiki/Flatout_2)
 
-[![Serious Sam 3](../resources/ss3.png)](http://en.wikipedia.org/wiki/Serious_sam_3)
+[![Serious Sam 1&2](../resources/ss3.png)](magnet:?xt=urn:btih:b302cee59bf687c7b2ddda2f97f10d83a508002c&dn=serious+sam+first+n+second+encounter+latest+patches+onlineplayab&tr=http%3A%2F%2Finferno.demonoid.me%3A3412%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337)
 
 
 
